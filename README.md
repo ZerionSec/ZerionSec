@@ -49,6 +49,7 @@ I'm building a strong foundation in modern web development and ethical cybersecu
 | 03 | [web-security-guide](https://github.com/ZerionSec/web-security-guide) | Web Security & OWASP Top 10 |
 | 04 | [network-security-guide](https://github.com/ZerionSec/network-security-guide) | Network Security Fundamentals |
 | 05 | [linux-security-guide](https://github.com/ZerionSec/linux-security-guide) | Linux Hardening & System Security |
+| 06 | [android-sql-injection-guide](https://github.com/ZerionSec/android-sql-injection-guide) | Android SQL Injection — Tricks, Tools & Defenses |
 
 #### Full Courses & Checklists
 | Repository | Description |
