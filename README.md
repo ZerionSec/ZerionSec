@@ -51,6 +51,7 @@ I'm building a strong foundation in modern web development and ethical cybersecu
 | 05 | [linux-security-guide](https://github.com/ZerionSec/linux-security-guide) | Linux Hardening & System Security |
 | 06 | [android-sql-injection-guide](https://github.com/ZerionSec/android-sql-injection-guide) | Android SQL Injection — Tricks, Tools & Defenses |
 | 07 | [wordpress-hacking-guide](https://github.com/ZerionSec/wordpress-hacking-guide) | WordPress Hacking — Recon, Scanning, Exploitation & Defense |
+| 08 | [government-website-security](https://github.com/ZerionSec/government-website-security) | Government Website Security — Attack Vectors & Defense-in-Depth |
 
 #### Full Courses & Checklists
 | Repository | Description |
