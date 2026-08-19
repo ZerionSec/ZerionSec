@@ -27,6 +27,7 @@ I'm building a strong foundation in modern web development and ethical cybersecu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Security](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -58,6 +59,11 @@ I'm building a strong foundation in modern web development and ethical cybersecu
 |------------|-------------|
 | [cyber-security-full-course](https://github.com/ZerionSec/cyber-security-full-course) | Complete structured cybersecurity learning path |
 | [web-security-checklist-for-developers](https://github.com/ZerionSec/web-security-checklist-for-developers) | 25 common web security mistakes & how to fix them |
+
+#### Tools
+| Repository | Description |
+|------------|-------------|
+| [aegisscan](https://github.com/ZerionSec/aegisscan) | 🛡️ Defensive Python web security scanner for authorized assessments, misconfiguration detection & risk analysis |
 
 #### Web Development Foundations
 | Repository | Description |
