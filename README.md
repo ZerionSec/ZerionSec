@@ -65,6 +65,7 @@ I'm building a strong foundation in modern web development and ethical cybersecu
 | Repository | Description |
 |------------|-------------|
 | [aegisscan](https://github.com/ZerionSec/aegisscan) | 🛡️ Defensive Python web security scanner for authorized assessments, misconfiguration detection & risk analysis |
+| [phone-number-intelligence-analyzer](https://github.com/ZerionSec/phone-number-intelligence-analyzer) | 📱 Defensive OSINT tool for phone number metadata analysis (validity, carrier prefix, location metadata) — No live tracking |
 
 #### Web Development Foundations
 | Repository | Description |
